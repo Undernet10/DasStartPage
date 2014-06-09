@@ -30,6 +30,6 @@ I have no idea if it'll work on other browsers, so you'll have to experiment wit
 Demo Page
 ===============
 
-Live Demo Here: <a href="http://Undernet10.github.io/">home</a>
+Live Demo Here: <a href="http://Undernet10.github.io/">Home</a>
 
 
