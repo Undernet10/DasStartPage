@@ -27,4 +27,9 @@ Designed and Tested on Firefox on a 1920 x 1080 monitor. Not for use with phone,
 
 I have no idea if it'll work on other browsers, so you'll have to experiment with that.
 
+Demo Page
+===============
+
+Live Demo Here: <a href="http://Undernet10.github.io/DasHomeNewPage/">home</a>
+
 
