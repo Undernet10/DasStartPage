@@ -32,6 +32,6 @@ I have no idea if it'll work on other browsers, so you'll have to experiment wit
 Demo Page
 ===============
 
-Live Demo Here: <a href="http://username.github.io/DasHomeNewPage">Home</a>
+Live Demo Here: <a href="http://Undernet10.github.io/DasHomeNewPage">Home</a>
 
 
