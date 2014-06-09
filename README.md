@@ -23,6 +23,6 @@ To set as a home page, simply navigate to your options/settings in Chrome or Fir
 Compatibility
 ===============
 
-Tested on Firefox on a 1920 x 1080 monitor. 
+Designed and Tested on Firefox on a 1920 x 1080 monitor. Not for use with phone, tablet, or laptop screens.
 
-I have no idea if it'll work on other browser or smaller or bigger screen resolution. So you'll have fix things yourself.
+I have no idea if it'll work on other browsers, so you'll have to experiment with that.
