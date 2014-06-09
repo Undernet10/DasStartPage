@@ -5,7 +5,7 @@ DasHomeNewPage
 
 A simple but functional homepage/new tab page that tells the time, shows your favorite links, and tells the weather for a location. (Everything is customizable!)
 
-This is a fork of Suzuismywaifu's homepage. I simply customized for my needs.
+This is a fork of Suzuismywaifu's homepage. I simply customized it for my needs.
 
 Here is Suzuismywaifu's homepage: https://github.com/Suzuismywaifu/My-homepage
 
