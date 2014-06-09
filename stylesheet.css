@@ -1,0 +1,217 @@
+@font-face 
+{
+    font-family: 'weather';
+    src: url('https://dl.dropboxusercontent.com/u/2086809/weatherfont/artill_clean_icons-webfont.eot');
+    src: url('https://dl.dropboxusercontent.com/u/2086809/weatherfont/artill_clean_icons-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://dl.dropboxusercontent.com/u/2086809/weatherfont/artill_clean_icons-webfont.woff') format('woff'),
+         url('https://dl.dropboxusercontent.com/u/2086809/weatherfont/artill_clean_icons-webfont.ttf') format('truetype'),
+         url('https://dl.dropboxusercontent.com/u/2086809/weatherfont/artill_clean_icons-webfont.svg#artill_clean_weather_iconsRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+html,body
+{
+	background-image: url("images/background2.png");
+	background-repeat: no-repeat; 
+	@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+.container
+{ 
+	Float: right;
+	color: #888;
+	font-size: 26pt;
+	margin-top: 60px;
+	margin-right: 600px;
+	margin-bottom: 20px;
+}
+
+.waifu1 
+{
+    background: url('images/mascots/Mascot1.png') #282A2E;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+.waifu2 
+{
+    background: url('images/mascots/Mascot2.png') #282A2E;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+.waifu3 
+{
+    background: url('images/mascots/Mascot3.png') #282A2E;
+    background-size: contain;
+    background-repeat: no-repeat;	
+	display: inline-block;
+}
+
+.plain 
+{
+    background: #A9A9AF;
+    padding: 20px 20px 20px 20px;
+	display: inline-block;
+}
+
+ul 
+{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+	background-color: white;
+	text-align: center;
+}
+
+li 
+{
+    position: relative;
+    margin: 3px 3px;
+    display: inline-block;
+	text-align: center;
+}
+
+li > a 
+{
+	display: inline-block;
+	min-width: 150px;
+	color: black;
+	text-decoration: none;
+	font-size: 16px;
+	outline: none;
+	background: #F2F2F2;
+	transition: all .5s;
+	text-align: center;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+	border-radius: 5px;
+}
+
+li:hover > a 
+{
+    color: #d67b96;
+    background: none;
+    border: none;
+	text-align: center;
+}
+
+li > ul 
+{
+    position: absolute;
+    box-sizing: border-box;
+    overflow: hidden;
+    width: 100%;
+    max-height: 0;
+    border: 0 solid #373B41;
+    transition: all .5s;
+    z-index: 10;
+	text-align: center;
+	display: block;
+}
+
+li:hover > ul 
+{
+    max-height: 700px;
+    border: 0px solid #70293b;
+    transition: max-height 1s, border 1s;
+	text-align: center;
+}
+
+ li > ul > li 
+{
+    display: block;
+	text-align: center;
+}
+
+li > ul > li > a 
+{
+    display: inline-block;
+    width: 100%;
+    color: black;
+    text-decoration: none;
+    outline: 1;
+    background: white;
+    transition: all 1s;
+	text-align: center;
+	margin-left: -3px;
+
+}
+
+li > ul > li > a:hover 
+ {
+    color: black;
+    background: #eeeeee;
+	text-align: center;
+	border-radius: 5px;
+}
+
+nav
+{
+	text-align: center;
+}
+
+#websites
+{
+	margin-left: 350px;
+	margin-top: 30px;
+}
+
+#searching
+{
+	margin-top: 50px;
+	margin-left: 180px;
+}
+
+#main
+{
+	background-color: rgb(227, 227, 227);
+	display: inline-block;
+	width: 1600px;
+	height: 500px;
+	margin-left: -2px;
+	position: relative;
+	opacity: 1;
+	border-radius: 50px;
+}
+
+form
+{
+	background: white;
+	Height: 25px;
+	text-align: center;
+	outline: 0;
+}
+
+
+form:focus, input:focus
+{
+    outline: 0;
+}
+
+a 
+{
+	text-decoration: none;
+	display: block;
+}
+
+a:link, a:visited 
+{
+    color: black;
+	
+}
+#forecast_embed
+{
+	margin-left: 200px;
+	margin-top: 50px;
+	border-radius: 10px;
+}
+	

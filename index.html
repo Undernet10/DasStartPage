@@ -1,0 +1,126 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<link href="stylesheet.css" rel="stylesheet" type="text/css">
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+		<title>Home Page</title>
+		<script type="text/javascript" src="js/date_time.js"></script>
+		<script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
+		<script type="text/javascript" src="js/scripts.js"></script>
+	</head>
+	<body>
+		<div class="container">
+			<span id="date_time"></span>
+			<script type="text/javascript">window.onload = date_time('date_time');</script>
+		</div>
+			<main id="main">
+				<nav>
+					<div id="websites">
+					<li>
+						<a href="#">Email</a>
+							<ul>
+								<li><a href="https://mail.google.com">Gmail</a></li>
+							</ul>
+					</li>
+					<li>		
+						<a href="#">Shopping</a>
+							<ul>
+								<li><a href="https://www.amazon.com">Amazon</a></li>
+								<li><a href="http://www.newegg.com">Newegg</a></li>
+								<li><a href="https://www.tigerdirect.com">TigerDirect</a></li>
+								<li><a href="https://www.microcenter.com">Micro Center</a></li>
+							</ul>
+
+					</li>
+					<li>
+						<a href="#">School</a>
+							<ul>
+								<li><a href="http://legacy.adams12.org">Legacy HS</a></li>
+								<li><a href="https://ic.adams12.org/campus/portal/adams12.jsp">Inf Campus</a></li>
+								<li><a href="https://sso.adams12.org/simplesaml/module.php/core/loginuserpass.php?AuthState=_57762e4f8534f8395fbedaef72aff98f27b97669a7%3Ahttps%3A%2F%2Fsso.adams12.org%2Fsimplesaml%2Fsaml2%2Fidp%2FSSOService.php%3Fspentityid%3Dgoogle.com%252Fa%252Fadams12.org%26cookieTime%3D1402177371%26RelayState%3Dhttps%253A%252F%252Fwww.google.com%252Fa%252Fadams12.org%252FServiceLogin%253Fservice%253Dmail%2526passive%253Dtrue%2526rm%253Dfalse%2526continue%253Dhttps%25253A%25252F%25252Fmail.google.com%25252Fa%25252Fadams12.org%25252F%2526ss%253D1%2526ltmpl%253Ddefault%2526ltmplcache%253D2%2526emr%253D1">Google Apps</a></li>
+								<li><a href="https://connection.naviance.com/family-connection/auth/login/?hsid=legacyhs">Naviance</a></li>
+								<li><a href="http://webassign.net">WebAssign</a></li>
+							</ul>
+					</li>
+					<li>
+						<a href="#">Fun</a>
+							<ul>
+								<li><a href="https://www.youtube.com">Youtube</a></li>
+								<li><a href="https://www.facebook.com">Facebook</a></li>
+								<li><a href="https://www.twitter.com">Twitter</a></li>
+								<li><a href="https://www.reddit.com">Reddit</a></li>
+								<li><a href="http://www.feedly.com">Feedly</a></li>
+							</ul>
+					</li>
+					<li>
+						<a href="#">4chan</a>
+							<ul>
+							    <li><a href="http://boards.4chan.org/v/">/v/ - Video Games</a></li>
+								<li><a href="http://boards.4chan.org/a/">/a/ - Anime and Manga</a></li>
+								<li><a href="http://boards.4chan.org/g/">/g/ - Technology</a></li>
+								<li><a href="http://boards.4chan.org/tv/">/tv/ - Television & Film</a></li>
+								<li><a href="http://boards.4chan.org/k/">/k/ - Weapons</a></li>
+								<li><a href="http://boards.4chan.org/mu/">/mu/ - Music</a></li>
+							</ul>
+					</li>   
+					<li>
+						<a href="#">Anime/Gaming</a>
+							<ul>
+								<li><a href="http://myanimelist.net/">MyAnimeList</a></li>
+								<li><a href="http://www.batoto.net/">Batoto</a></li>
+								<li><a href="http://www.pixiv.com/">Pixiv</a></li>
+								<li><a href="http://store.steampowered.com/">Steam</a></li>
+								<li><a href="http://www.gog.com/">GOG</a></li>
+								<li><a href="http://www.greenmangaming.com/">GMG</a></li>
+							</ul>
+					</li>
+					<li>
+						<a href="#">Downloads</a>
+							<ul>
+								<li><a href="http://thepiratebay.se/">PirateBay</a></li>
+								<li><a href="http://kickass.to/">KAT</a></li>
+								<li><a href="http://www.nyaa.se/">Nyaa</a></li>
+								<li><a href="http://bakabt.me/">BakaBT</a></li>
+							</ul>
+					<br>
+					</div>
+					<div id="searching">
+						<li>
+							<a href="#">Google</a>
+								<ul>
+									<li>
+										<form method="get" action="http://www.google.com/search">
+											<input type="text" maxlength="255" name="q" placeholder="Search Google" autofocus autocomplete="off">
+										</form>
+									</li>
+								</ul>
+						</li>
+						<li>
+							<a href="#">Youtube</a>
+								<ul>
+									<li>
+										<form action="http://www.youtube.com/results" method="get">
+											<input type="hidden" name="language" value="en">
+											<input type="text" name="search_query"  placeholder="Search Youtube" Autocomplete="off">
+										</form>
+									</li>
+								</ul>
+						</li>						
+						<li>
+							<a href="#">Wikipedia</a>
+								<ul>
+									<li>
+										<form action="http://www.wikipedia.org/search-redirect.php" method="get">
+											<input type="hidden" name="language" value="en">
+											<input type="text" name="search"  placeholder="Search Wikipedia" Autocomplete="off">
+										</form>
+									</li>
+								</ul>
+						</li>
+					</div>
+				</nav>
+					<iframe id="forecast_embed" type="text/html" frameborder="0" height="220" width="500px" src="http://forecast.io/embed/#lat=39.907910&lon=-105.095215&name=Broomfield&color=#474747&font=Georgia&units=us"> '
+                    </iframe> 
+			</main> 
+	</body>
+</html>
