@@ -18,7 +18,7 @@ For Firefox: https://addons.mozilla.org/en-US/firefox/addon/custom-new-tab/?src=
 
 For Chrome: https://chrome.google.com/webstore/detail/define-your-own-new-tab/nhjjapmfhhmcikhcfkiolockmndbbpng
 
-After that, you can download this package zipped with this repository, put the folder in a safe place, and customize it to your liking! (Unless you want to use the links, and you don't want that do you?)
+After that, you can download this package zipped with this repository, put the folder in a safe place, and customize it to your liking! (Unless you want to use my links, and you don't want that do you?)
 
 To set as a home page, simply navigate to your options/settings in Chrome or Firefox and set the URL to the file directory of html file.
 
