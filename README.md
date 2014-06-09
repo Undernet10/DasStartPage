@@ -42,7 +42,7 @@ Uploaded to Github.
 
 Future Release
 ===============
-<ol>
+<ul>
   <li>Planning to add some more publish to the design</li>
   <li>Change the color scheme?</li>
   <li>Adding a Mp3 player</li>
