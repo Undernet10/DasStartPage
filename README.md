@@ -1,7 +1,7 @@
 DasHomeNewPage
 ==============
 
-<img src="https://raw.githubusercontent.com/Undernet10/DasHomeNewPage/master/screenshots/Example.jpeg" height="352" width="640"> 
+<img src="https://raw.githubusercontent.com/Undernet10/DasHomeNewPage/master/screenshots/Example.jpg" height="352" width="640"> 
 
 A simple but functional homepage/new tab page that tells the time, shows your favorite links, and tells the weather for a location. (Everything is customizable!)
 
