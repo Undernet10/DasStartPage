@@ -1,7 +1,7 @@
-DasHomeNewPage
+DasPageStart
 ==============
 
-<img src="https://raw.githubusercontent.com/Undernet10/DasHomeNewPage/gh-pages/screenshots/Example.jpg" height="352" width="640"> 
+<img src="https://raw.githubusercontent.com/Undernet10/DasPageStartPage/gh-pages/screenshots/Example.jpg" height="352" width="640"> 
 
 A simple but functional homepage/new tab page that tells the time, shows your favorite links, and tells the weather for a location. (Everything is customizable!)
 
@@ -32,7 +32,7 @@ I have no idea if it'll work on other browsers like IE, Opera, Safari, so you'll
 Demo Page
 ===============
 
-Live Demo Here: <a href="http://Undernet10.github.io/DasHomeNewPage">Home</a>
+Live Demo Here: <a href="http://Undernet10.github.io/DasStartPage">Home</a>
 
 Changelog
 ===============
