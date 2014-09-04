@@ -9,6 +9,16 @@ This is a fork of Suzuismywaifu's homepage. I simply customized it for my needs.
 
 Here is Suzuismywaifu's homepage: https://github.com/Suzuismywaifu/My-homepage
 
+Features
+==============
+<ul>
+  <li>Black or White color scheme</li>
+  <li>Randomized Mascots</li>
+  <li>Tells the friggin' time</li>
+  <li>Search Engines (Google, Youtube, Wikipedia)</li>
+  <li>Weather</li>
+</ul>
+
 Installation
 ==============
 
@@ -43,15 +53,15 @@ Uploaded to Github.
 Future Release
 ===============
 <ul>
-  <li>Planning to add some more polish to the design</li>
-  <li>Change the color scheme?</li>
-  <li>Adding a Mp3 player?</li>
+  <li>Music Player</li>
+  <li>Access to bookmarks, downloads, plugins, history, and browser settings.</li>
+  <li>Choose your own Mascots</li>
 </ul>
 
 Far far Future Release
 ===============
 <ul>
-  <li>Advanced Javascript that allows changablity of mascots, themes , and links. Without the knowledge of HTML/CSS (Extreme Ease for your users)</li>
+  <li>Advanced Javascript that allows changeability of mascots, themes , and links. Without the knowledge of HTML/CSS (Extreme Ease for your users)</li>
 </ul>
   
 
