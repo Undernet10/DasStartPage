@@ -3,7 +3,7 @@ DasStartPage
 
 <img src="https://raw.githubusercontent.com/Undernet10/DasStartPage/gh-pages/screenshots/Example.jpg" height="352" width="640"> 
 
-A simple but functional homepage/new tab page that tells the time, shows your favorite links, and tells the weather for a location. (Everything is customizable!)
+A simple but functional homepage/new tab page that tells the time, shows your favorite links, and tells the weather for a location. (Everything is customizable! By HTML/CSS of course! I plan on expanding on this, read: Far Far Future Release)
 
 This is a fork of Suzuismywaifu's homepage. I simply customized it for my needs.
 
@@ -46,5 +46,14 @@ Future Release
   <li>Planning to add some more polish to the design</li>
   <li>Change the color scheme?</li>
   <li>Adding a Mp3 player?</li>
+</ul>
+
+Far far Future Release
+===============
+<ul>
+  <li>Advanced Javascript that allows changablity of mascots, themes , and links. Without the knowledge of HTML/CSS (Extreme Ease for your users)</li>
+</ul>
+  
+
 
 
