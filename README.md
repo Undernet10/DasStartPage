@@ -3,7 +3,7 @@ DasStartPage
 
 <img src="https://raw.githubusercontent.com/Undernet10/DasStartPage/gh-pages/screenshots/Example.jpg" height="352" width="640"> 
 
-A simple but functional homepage/new tab page that tells the time, shows your favorite links, and tells the weather for a location. (Everything is customizable! By HTML/CSS of course! I plan on expanding on this, read: Far Far Future Release)
+A simple but functional homepage/new tab page that tells the time, shows your favorite links, and tells the weather for a location. (Everything is customizable! By HTML/CSS of course! I plan on expanding on this, (read: Far Far Future Release) but I'll probably not to get to every feature.
 
 This is a fork of Suzuismywaifu's homepage. I simply customized it for my needs.
 
@@ -12,7 +12,6 @@ Here is Suzuismywaifu's homepage: https://github.com/Suzuismywaifu/My-homepage
 Features
 ==============
 <ul>
-  <li>Black or White color scheme</li>
   <li>Randomized Mascots</li>
   <li>Tells the friggin' time</li>
   <li>Search Engines (Google, Youtube, Wikipedia)</li>
@@ -35,7 +34,7 @@ To set as a home page, simply navigate to your options/settings in Chrome or Fir
 Compatibility
 ===============
 
-Designed and Tested on Firefox on a 1920 x 1080 monitor. Not for use with phone, tablet, or laptop screens.
+Designed and Tested on Firefox and Chrome on a 1920 x 1080 monitor. Not for use with phone, tablet, or laptop screens.
 
 I have no idea if it'll work on other browsers like IE, Opera, Safari, so you'll have to experiment with that.
 
@@ -53,6 +52,7 @@ Uploaded to Github.
 Future Release
 ===============
 <ul>
+  <li>Black or White color scheme</li>
   <li>Music Player</li>
   <li>Access to bookmarks, downloads, plugins, history, and browser settings.</li>
   <li>Choose your own Mascots</li>
@@ -61,9 +61,5 @@ Future Release
 Far far Future Release
 ===============
 <ul>
-  <li>Advanced Javascript that allows changeability of mascots, themes , and links. Without the knowledge of HTML/CSS (Extreme Ease for your users)</li>
+  <li>Advanced Javascript that allows changeability of mascots, rgb themes , and links. Without the knowledge of HTML/CSS (Extreme Ease for your users)</li>
 </ul>
-  
-
-
-
