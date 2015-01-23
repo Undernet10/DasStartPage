@@ -18,6 +18,11 @@ Features
   <li>Weather</li>
 </ul>
 
+Demo Page
+===============
+
+Live Demo Here: <a href="http://Undernet10.github.io/DasStartPage">Home</a>
+
 Installation
 ==============
 
@@ -36,18 +41,18 @@ Compatibility
 
 Designed and Tested on Firefox and Chrome on a 1920 x 1080 monitor. Not for use with phone, tablet, or laptop screens.
 
+I am currently working on trying to figure out how the page would resize so that it doesn't have those awful scroll bars on low resolutions.
+
 I have no idea if it'll work on other browsers like IE, Opera, Safari, so you'll have to experiment with that.
-
-Demo Page
-===============
-
-Live Demo Here: <a href="http://Undernet10.github.io/DasStartPage">Home</a>
 
 Changelog
 ===============
 06/9/14
 
 Uploaded to Github.
+
+1/23/15
+Updated this page.
 
 Future Release
 ===============
